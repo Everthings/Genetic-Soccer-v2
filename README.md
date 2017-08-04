@@ -14,3 +14,7 @@ a psuedo-random key, a population size, and the desired mutation rate. Press ```
 ```<-```: The left arrow button will speed up the program when the mode is sequential
 
 ```->```: The right arrow button will slow down the program when the mode is sequential
+
+## Images
+![alt text](https://user-images.githubusercontent.com/16503485/28980062-6cf70308-791a-11e7-923f-33ef174b9260.png)
+![alt text](https://user-images.githubusercontent.com/16503485/28980065-6ed69026-791a-11e7-9b0a-a6beb8f4e23d.png)
